@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dinstinct.dionlabs.ai/sitemap.xml
