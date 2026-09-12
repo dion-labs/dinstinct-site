@@ -11,3 +11,7 @@
 - Published in dedicated public repository https://github.com/dion-labs/dinstinct-site; initial production commit b7a58ae.
 - Cloudflare Pages Git build succeeded (deployment df0b1354-97a6-45a3-b3eb-54b9226ef9cf). Custom domain and certificate active; proxied CNAME confirmed in Cloudflare DNS.
 - Live HTTPS verification: homepage, avatar, CSS, both used fonts, robots.txt, sitemap.xml return 200; unknown route returns 404. Screenshots retained in the parent workspace at output/dinstinct-presence-2026-09-12/.
+
+## 2026-09-12 — Credit Instinct
+
+At D’s request, added visible linked Instinct credit to the main-site cast card and living-page introduction. Product attribution points to https://instinct.com; no partnership or endorsement claim. Official product description checked on instinct.com.
