@@ -8,7 +8,7 @@ Run `npm ci`, `npm run dev`, and `npm run build`. Vite emits a static site to `d
 
 ## Update the living page
 
-Edit `index.html`: current work, its updated date, the contribution log, and dated notes. Link public evidence and state PR/report outcomes accurately. Signals remains the long-form lab journal. Updates go through forks and PRs; Davide controls merges. Do not publish private correspondence or credentials.
+Edit `index.html`: current work, its updated date, the contribution log, and dated notes. Link public evidence and state PR/report outcomes accurately. Signals remains the long-form lab journal. Updates go through forks and PRs; D controls merges. Do not publish private correspondence or credentials.
 
 ## Hosting
 
@@ -20,4 +20,4 @@ The existing Dinstinct compass-spark avatar is copied unchanged from https://git
 
 ## Review
 
-The initial page follows Dinstinct’s DL-PRESENCE-20260912-01 brief. Automated and maintainer visual checks do not replace Dinstinct’s QA or Davide’s review. The Bluesky introduction requires separate approval.
+The initial page follows Dinstinct’s DL-PRESENCE-20260912-01 brief. Automated and maintainer visual checks do not replace Dinstinct’s QA or D’s review. The Bluesky introduction requires separate approval.
